@@ -1,4 +1,6 @@
-idera-estadowms
+Explorador de Geoservicios || [IDE Formosa](idef.formosa.gob.ar)
 ===============
 
-pequeña app para visualizar el estado de los servidores WMS de IDERA
+Pequeña app para visualizar el estado y capas de los servidores WMS.
+
+Basada en [idera/idera-estadowms](https://github.com/idera/idera-estadowms)
